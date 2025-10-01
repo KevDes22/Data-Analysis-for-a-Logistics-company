@@ -42,6 +42,8 @@ The analysis followed a structured four-step process:
 4. **Data Visualization** – Designed an interactive dashboard with multiple charts and performance indicators.
 
 ---
+## Dashboard 
+![Project Results](https://github.com/KevDes22/Data-Analysis-for-a-Logistics-company/blob/main/LOGISTICS.png)
 
 ##  Key Findings (Exploratory Data Analysis)
 
